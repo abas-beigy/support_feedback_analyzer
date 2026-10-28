@@ -1,0 +1,4 @@
+file_name,raw_text,phones,emails,statuse
+support_logs\ticket1.txt,خیلی عالی بود لذت بردم 091223456,['091223456'],[],رضایتمندی
+support_logs\ticket2.txt,test@gmail.com ، سفارش من هنوز ارسال نشده ، ۰۹۱۲۳۴۵۶۷۸ ،,['۰۹۱۲۳۴۵۶۷۸'],['test@gmail.com'],معمولی
+support_logs\ticket3.txt,پشتیبانی بسیار ضعیف بود و پاسخگو نبودند,[],[],نارضایتی
